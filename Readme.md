@@ -29,4 +29,40 @@ Run the [Checker](checker.py) file to evaluate your code. If all tests pass, you
    - `'fare'`  
 *Failure to which all your tests will fail.*  
 3. The **Checker** file should **never** be **altered** at any cost.
-#1
+
+
+## bus fare solution pseudocode
+
+date= today's date
+day= print "day thur"
+
+if today_date =thursday
+print "Date: 2020 1 28"
+      "Day: thur"
+      "fare: 100"
+elif today_date =friday
+print "Date: 2020 1 28"
+      "Day: fri"
+      "fare: 100"
+elif today_date =saturday
+print "Date: 2020 1 28"
+      "Day: sat"
+      "fare: 60"
+elif today_date =sunday
+print "Date: 2020 1 28"
+      "Day: sun"
+      "fare: 80"
+elif today_date =monday
+print "Date: 2020 2 1"
+      "Day: mon"
+      "fare: 100"
+elif today_date =tuesday
+print "Date: 2020 2 2"
+      "Day: tue"
+      "fare: 100"
+else today_date =wednesday
+print "Date: 2020 2 3"
+      "Day: wed"
+      "fare: 100"
+
+
