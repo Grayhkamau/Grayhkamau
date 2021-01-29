@@ -2,13 +2,12 @@
 from datetime import datetime
 
 date = datetime.now()
+day = print('day: ' + str(date.strftime('%a')))
 
 fare = int(100)
 fare_2 = int(80)
 fare_3 = int(60)
 
-day = print('day': + str(date.strftime('%a')))
-day = print('day: ' + str(date.strftime('%a')))
 thursday = print('Day: ' + str(today_date.strftime('%a')))
 friday = print('Day: ' + str(today_date.strftime('%a')))
 saturday = print('Day: ' + str(today_date.strftime('%a')))
