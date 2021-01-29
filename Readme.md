@@ -36,26 +36,38 @@ Run the [Checker](checker.py) file to evaluate your code. If all tests pass, you
 date= today's date
 day= print "day thur"
 
+thursday="Day thur"
+friday="Day: fri"
+saturday="Day: sat"
+sunday= "Day: sun"
+monday="Day: mon"
+tuesday="Day: tue"
+wednesday="Day: wed"
+
 if today_date =thursday
 print "Date: 2020 1 28"
-      "Day: thur"
-      "fare: 100"
+print "Day: thur"
+print "fare: 100"
+
 elif today_date =friday
 print "Date: 2020 1 28"
-      "Day: fri"
-      "fare: 100"
+print "Day: fri"
+print "fare: 100"
+
 elif today_date =saturday
 print "Date: 2020 1 28"
-      "Day: sat"
-      "fare: 60"
+print "Day: sat"
+print "fare: 60"
+
 elif today_date =sunday
 print "Date: 2020 1 28"
-      "Day: sun"
-      "fare: 80"
+print "Day: sun"
+print "fare: 80"
+
 elif today_date =monday
 print "Date: 2020 2 1"
-      "Day: mon"
-      "fare: 100"
+print "Day: mon"
+print "fare: 100"
 elif today_date =tuesday
 print "Date: 2020 2 2"
       "Day: tue"
